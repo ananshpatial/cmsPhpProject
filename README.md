@@ -1,1 +1,1 @@
-Please use "admin" for the username and "pass" for the password
+Still working on this project, Yet to be completed 
